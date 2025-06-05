@@ -15,7 +15,7 @@ init(autoreset=True) # allowing colorama to properly display on windows
 with open("config.json") as data:
     config = json.load(data)
 
-token = config["token"]
+token = os.getenv("token")
 prefix = config["prefix"]
 streamurl = config["streamurl"]
 streamname = config["streamname"]
