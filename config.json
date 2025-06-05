@@ -1,6 +1,6 @@
 {
   "token": "enter token here",
-  "streamurl": "enter stream url here (youtube.com or twitch.tv only)",
-  "streamname": "enter stream name here",
+  "streamurl": "https://www.youtube.com/live/36YnV9STBqc?si=OUhx8pfHdKyDR3NH",
+  "streamname": "24/7",
   "prefix": "!!"
 }
